@@ -1,0 +1,1 @@
+~/vision_ws/ORB_SLAM2/Examples/RGB-D/rgbd_tum ~/vision_ws/ORB_SLAM2/Vocabulary/ORBvoc.txt ~/vision_ws/ORB_SLAM2/Examples/RGB-D/TUM1.yaml ~/vision_ws/datas/rgbd_dataset_freiburg1_desk ~/vision_ws/datas/rgbd_dataset_freiburg1_desk/associate.txt
